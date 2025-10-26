@@ -24,8 +24,6 @@ El repositorio está organizado por materias o cursos. Cada carpeta generalmente
 
 Los trabajos en este repositorio utilizan principalmente:
 - **Python** (Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch)
-- **R**
-- **SQL**
 - **Jupyter Notebooks**
 
 ## ⚠️ Aviso
