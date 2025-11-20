@@ -11,6 +11,7 @@ La maestría MIAAD de la UACJ se centra en proporcionar conocimientos avanzados 
 - Modelado Estadístico
 - Procesamiento de Lenguaje Natural
 - Visión por Computadora
+- Web: https://www.uacj.mx/oferta/programas.html?programa=45210&277&email=miaad@uacj.mx
 
 ## 🗂️ Estructura del Repositorio
 
